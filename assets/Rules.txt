@@ -1,0 +1,11 @@
+Your goal is: Score the most points at the end of the game by creating the most sumptuous arboretum!
+
+In each turn, you must in order: draw 2 cards, play 1 card on your hand into your arboretum, and end your turn by discarding 1 card.
+
+Draw 2 cards: you may draw from the face-down draw pile, or the top of any player's face-up discard pile (include your own discard pile). These 2 cards may bbe drawn from the same or different piles.
+
+Play a card from your hand into your arboretum: On your first turn, place a card from your hand in the middle of the arboretum. In following turns, cards must be placed adjacent (horizontally or vertically) to previously placed cards. Once the card has been placed, it may not be removed, moved or covered by another card.
+
+Discard a card: At the end of your turn, you must discard a card into your discard pile, so you're always have 7 cards at start your turn and end of your turn!
+
+End the game: The game ends when there are no further cards in the draw pile. The player who drew the last card plays their turn normally, and then scoring occurs.

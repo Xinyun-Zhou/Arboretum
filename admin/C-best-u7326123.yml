@@ -1,0 +1,54 @@
+# IMPORTANT: It is very important that you correctly complete this originality
+# statement.
+#
+# This is your statement of your submitted work being your own.
+# Incorrectly filling out this statement could lead to charges
+# of academic misconduct.
+# 
+# For information on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1110/help/faq/09-originality/
+#
+
+declaration: >-
+  I submit the work below for assessment as my best work. I declare that this
+  is entirely my own work, with the following documented exceptions:
+
+
+# Use this to list any code that you used that you did not write,
+# aside from code provided by the lecturer.  Provide a comment
+# explaining your use and the URL to that code and the licence for
+# that code
+#
+# Add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: raise an error message in javafx
+    url: http://www.java2s.com/example/java/javafx/show-javafx-error-message.html
+    licence: N/A
+
+# I wish to submit the following classes as entirely my own (remove this if
+# you want to just submit methods):
+class:
+   - (Best Work) https://gitlab.cecs.anu.edu.au/u7326123/comp1110-ass2/-/blob/master/src/comp1110/ass2/help/isArboretumValid.java#L136-231
+   - isArboretumValid
+
+# I wish to submit the following methods as entirely my own (remove this if
+# you want to just submit classes):
+method:
+   - (Best Work) https://gitlab.cecs.anu.edu.au/u7326123/comp1110-ass2/-/blob/master/src/comp1110/ass2/Arboretum.java#L426-445
+   - isHiddenStateWellFOrmed
+   - isGoodDeck
+   - isSharedStateWellFormed
+   - isWellFormed
+   - isTree
+   - isPlacementValid
+   - isStateValid
+   - findCards
+   - displayState
+   - drawRectangle
+   - drawGreyRectangle
+   - writeText
+
+# sign *your* name and uid here
+name: Xinyun Zhou
+uid: u7326123

@@ -1,0 +1,9 @@
+Get a card from the Deck: click Deck button
+
+Get a card from the A's discard : click A's discard button
+
+Get a card from the B's discard : click B's discard button
+
+Move a card to the arboretum: drag the card and release in the place that you want
+
+Discard a card: right-click

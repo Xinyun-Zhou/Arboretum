@@ -1,0 +1,9 @@
+Gaining the right to score paths: For each species of trees, the players reveal each card in their hand matching that species. The player who has the highest sum in a given species gains the right to score points for a single path matching that color in their arboretum. In case of a tie, all tied players gain the right to score one path of that species.
+
+Scoring the path: Along a path, each card must be greater in value that the one preceding it. The only cards that must match the species being evaluated are those at the start and end of the path; the species of the cards in between are only of importance in determining the value of a path. There are the rules for scoring the path:
+1. Score 1 point for each card in the path.
+2. Score 1 additional point for each card in the path if it is made up of at least 4 cards, and they are all the same species.
+3. Score 1 additional point if the path begins with a 1.
+4. Score 2 additional points if the path ends with an 8.
+
+Declaring the winner: Once the sum of each player's scored paths is determined, the player win most points wins. In case of a tie, the player with the most species present in the arboretum is the winner. If there is still a tie, the tied players should plant a tree and the player whose tree has grown the tallest in five years' time is the winner!
